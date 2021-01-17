@@ -1,4 +1,4 @@
-# Profile BLock
+# Profile Block
 
 A simple design to create profile block by inserting name, detail and photo using React
 
